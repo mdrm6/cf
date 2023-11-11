@@ -1,0 +1,55 @@
+{
+  "publicaciones": [
+    {
+      "usuario": "Usuario0",
+      "contenido": "Esta es una publicación de prueba. ¡Me encanta esta red social!",
+      "fecha": "2023-11-10T10:30:00"
+    },
+    {
+      "usuario": "Usuario2",
+      "contenido": "¡Hola a todos! Esta es mi primera publicación aquí.",
+      "fecha": "2023-11-10T11:15:00"
+    },
+    {
+      "usuario": "Usuario3",
+      "contenido": "Compartiendo un hermoso día en el parque.",
+      "fecha": "2023-11-10T12:45:00"
+    },
+    {
+      "usuario": "Usuario9",
+      "contenido": "¡Miren esta imagen increíble que tomé durante mis vacaciones!",
+      "fecha": "2023-11-10T14:20:00"
+    },
+    {
+      "usuario": "Usuario4",
+      "contenido": "Almuerzo delicioso en mi restaurante favorito.",
+      "fecha": "2023-11-10T15:00:00"
+    },
+    {
+        "usuario": "Usuario5",
+        "contenido": "¡Me estoy divirtiendo mucho en mi viaje a la playa!",
+        "fecha": "2023-11-10T16:30:00"
+      },
+      {
+        "usuario": "Usuario6",
+        "contenido": "Nueva adición a la familia, conoce a nuestro cachorro, Max.",
+        "fecha": "2023-11-10T18:45:00"
+      },
+      {
+        "usuario": "Usuario8",
+        "contenido": "Compartiendo mi receta favorita de brownies.",
+        "fecha": "2023-11-10T20:00:00"
+      },
+      {
+        "usuario": "Usuario7",
+        "contenido": "¡Feliz cumpleaños a mi mejor amiga! 🎉",
+        "fecha": "2023-11-11T09:15:00"
+      },
+      {
+        "usuario": "Usuario1",
+        "contenido": "Un día perfecto para hacer senderismo en las montañas.",
+        "fecha": "2023-11-11T11:30:00"
+      }
+    ]
+  }
+  
