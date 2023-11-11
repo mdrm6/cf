@@ -111,7 +111,7 @@ footer {
 
 a {
     color: #007BFF;
-    text-decoration: none;
+    text-decoration: italic;
     transition: color 0.3s;
 }
 
